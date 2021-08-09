@@ -7,6 +7,23 @@
 처음 접근화면은 아래와같이 4개의 카테고리를 가진 화면이 출력되며 원하는 카테고리를 누르면 해당 카테고리로 이동합니다.
 ![1](https://user-images.githubusercontent.com/52379503/128654716-9c74a701-82cc-48f7-9d94-9e9531e7b3ea.png)
 
-# 3. 
+# 3. 정보관리
+정보관리 버튼을 누르게되면 아래와 같은 화면이 출력되게 됩니다. 여기서 원하는 정보를 조회할 수 있습니다.
 ![2](https://user-images.githubusercontent.com/52379503/128654910-3ec96684-b2c5-40b4-b608-b2e5daebbb8a.png)
+
+원하는 버튼을 누르게 되면 아래와 같은 정보들이 출력됩니다.
+![3](https://user-images.githubusercontent.com/52379503/128654973-42a5a09f-ab4d-4367-b30f-bbfe98375558.png)
+
+그리고 수정하고 싶은 사항이 있다면, 그 부분을 더블클릭할 시에 수정할 수 있도록 구현하였습니다.
+![4](https://user-images.githubusercontent.com/52379503/128655005-280ecc38-2e87-4b21-bf92-244e829b55d9.png)
+
+추가버튼을 누르게 된다면, 다이얼로그가 나오게 되며, 추가하고싶은 정보를 입력할 시 데이터를 추가하게 됩니다.
+![5](https://user-images.githubusercontent.com/52379503/128655040-0fe9adf7-b43f-4226-ada1-4552575f76aa.png)
+
+그리고 삭제버튼을 누르면 선택된 데이터를 삭제시킬 수 있습니다.
+![6](https://user-images.githubusercontent.com/52379503/128655078-b15e334e-0be2-4bc6-bc10-edc7fd97cad4.png)
+
+# 4. 구매
+![7](https://user-images.githubusercontent.com/52379503/128655097-9d157e46-9cd9-4a39-932c-df425837c697.png)
+
 
